@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{C4F0406B-1CF7-47CE-BC19-BC1CD7F5804E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Diplom/MainDisplay.cs">
+    <Files>
+      <File FileName="Diplom/MainDisplay.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Diplom" expanded="True">
+            <Node name="Diplom" expanded="True">
+              <Node name="MainDisplay.cs" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Diplom PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
